@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Starter\Starter.csproj", "{E90DA90D-CA1E-4518-ADC5-D2F21A5FA158}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{E841D026-A2AD-4EA9-B224-E0524610F67D}"
+	ProjectSection(SolutionItems) = preProject
+		lib\libdb53.dll = lib\libdb53.dll
+		lib\libdb_csharp53.dll = lib\libdb_csharp53.dll
+		lib\libdb_dotnet53.dll = lib\libdb_dotnet53.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90DA90D-CA1E-4518-ADC5-D2F21A5FA158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90DA90D-CA1E-4518-ADC5-D2F21A5FA158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90DA90D-CA1E-4518-ADC5-D2F21A5FA158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90DA90D-CA1E-4518-ADC5-D2F21A5FA158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
