@@ -40,4 +40,5 @@ Thumbs.db
 # User generated files or dirs #
 ######################
 *.suo
+bin
 obj

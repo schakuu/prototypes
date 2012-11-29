@@ -1,7 +1,0 @@
-C:\PersonalWorkspace\prototypes\BkDB\Starter\output\Starter.exe.config
-C:\PersonalWorkspace\prototypes\BkDB\Starter\output\Starter.exe
-C:\PersonalWorkspace\prototypes\BkDB\Starter\output\Starter.pdb
-C:\PersonalWorkspace\prototypes\BkDB\Starter\output\libdb_dotnet53.dll
-C:\PersonalWorkspace\prototypes\BkDB\Starter\obj\Debug\ResolveAssemblyReference.cache
-C:\PersonalWorkspace\prototypes\BkDB\Starter\obj\Debug\Starter.exe
-C:\PersonalWorkspace\prototypes\BkDB\Starter\obj\Debug\Starter.pdb
