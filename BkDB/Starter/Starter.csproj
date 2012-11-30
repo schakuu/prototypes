@@ -64,11 +64,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DatabaseExample.cs" />
+    <Compile Include="DatabaseLoader.cs" />
+    <Compile Include="DatabaseReader.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="MyDbs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vendor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="inventory.txt" />
+    <Content Include="vendors.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
